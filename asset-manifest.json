@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/App-recipes/static/css/main.055f6b28.chunk.css",
+    "main.js": "/App-recipes/static/js/main.1018a03b.chunk.js",
+    "main.js.map": "/App-recipes/static/js/main.1018a03b.chunk.js.map",
+    "runtime-main.js": "/App-recipes/static/js/runtime-main.499bd13e.js",
+    "runtime-main.js.map": "/App-recipes/static/js/runtime-main.499bd13e.js.map",
+    "static/css/2.95258f03.chunk.css": "/App-recipes/static/css/2.95258f03.chunk.css",
+    "static/js/2.4b8181cf.chunk.js": "/App-recipes/static/js/2.4b8181cf.chunk.js",
+    "static/js/2.4b8181cf.chunk.js.map": "/App-recipes/static/js/2.4b8181cf.chunk.js.map",
+    "index.html": "/App-recipes/index.html",
+    "precache-manifest.ec0e2d0ca2154bb42075e1be8e79a686.js": "/App-recipes/precache-manifest.ec0e2d0ca2154bb42075e1be8e79a686.js",
+    "service-worker.js": "/App-recipes/service-worker.js",
+    "static/css/2.95258f03.chunk.css.map": "/App-recipes/static/css/2.95258f03.chunk.css.map",
+    "static/css/main.055f6b28.chunk.css.map": "/App-recipes/static/css/main.055f6b28.chunk.css.map",
+    "static/js/2.4b8181cf.chunk.js.LICENSE.txt": "/App-recipes/static/js/2.4b8181cf.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.svg": "/App-recipes/static/media/blackHeartIcon.fed97292.svg",
+    "static/media/drinkIcon.svg": "/App-recipes/static/media/drinkIcon.e20c3bb8.svg",
+    "static/media/exploreIcon.svg": "/App-recipes/static/media/exploreIcon.8486ec46.svg",
+    "static/media/facebookIcon.png": "/App-recipes/static/media/facebookIcon.88a6db57.png",
+    "static/media/instagramIcon.jpg": "/App-recipes/static/media/instagramIcon.dc610311.jpg",
+    "static/media/logoDoAppEscrita.jpg": "/App-recipes/static/media/logoDoAppEscrita.260d496f.jpg",
+    "static/media/mealIcon.svg": "/App-recipes/static/media/mealIcon.0a218dad.svg",
+    "static/media/profileIcon.svg": "/App-recipes/static/media/profileIcon.8712a673.svg",
+    "static/media/searchIcon.svg": "/App-recipes/static/media/searchIcon.4552d440.svg",
+    "static/media/shareIcon.svg": "/App-recipes/static/media/shareIcon.bede9005.svg",
+    "static/media/whatsAppIcon.jpg": "/App-recipes/static/media/whatsAppIcon.461089b8.jpg",
+    "static/media/whiteHeartIcon.svg": "/App-recipes/static/media/whiteHeartIcon.7e5b379e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.499bd13e.js",
+    "static/css/2.95258f03.chunk.css",
+    "static/js/2.4b8181cf.chunk.js",
+    "static/css/main.055f6b28.chunk.css",
+    "static/js/main.1018a03b.chunk.js"
+  ]
+}
